@@ -1,0 +1,3 @@
+/var/home/dominik/Schule/INFO/BaseConverter/cmake-build-debug/CMakeFiles/BaseConverter.dir
+/var/home/dominik/Schule/INFO/BaseConverter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/var/home/dominik/Schule/INFO/BaseConverter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
